@@ -11,10 +11,12 @@ The mod reuses the stock parts provided in the Siboor V0.2 kit for the filament 
 
 ## BOM and Printing Parts:  
 ```
-1 pc  - Pre-made Filament Limit Switch   (Kit) 
-1 pc  - MR85ZZ Bearing (5x8x2.5 Bearing) (Kit)
-1 pc  - M2x10 Self Tapping Screw         (Kit)
+Included in kit:
+1 pc  - Pre-made Filament Limit Switch  
+1 pc  - MR85ZZ Bearing (5x8x2.5 Bearing)
+1 pc  - M2x10 Self Tapping Screw        
 
+Additional:
 1 pc  - PC4-M6 fitting pass-thru type 
 4 pcs - Printed Parts:
         1 - Backplate LH
