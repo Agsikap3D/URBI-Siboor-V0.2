@@ -1,7 +1,5 @@
 # URBI-Siboor-V0.2
 
-URBI using most of the stock Siboor V0.2 filament switch components
-
 ![Image](https://github.com/user-attachments/assets/1971bdef-e779-420a-b3c1-409b069ddda5)
 
 This is a mod of the splitted URBI design of Maple Leaf Makers:  
